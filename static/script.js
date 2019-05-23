@@ -1,5 +1,5 @@
 var posts = [
-	'rust-messagebox'
+	'first-post'
 ];
 
 var labelTemp =
