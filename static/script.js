@@ -1,5 +1,6 @@
 var posts = [
-	'first-post'
+	'first-post',
+	'ke-hoach-sap-toi'
 ];
 
 var labelTemp =
